@@ -4,22 +4,20 @@
    "displayName": "FusionWebGL AI",
    "description": "AI and NPC Dialogue system for Fusion and GameCreator",
    "unity": "2022.3",
-   "documentationUrl": "https://docs.fusionwebgl.ai",
-   "changelogUrl": "https://github.com/yourusername/fusionwebgl-ai/blob/main/CHANGELOG.md",
-   "licensesUrl": "https://github.com/yourusername/fusionwebgl-ai/blob/main/LICENSE",
+   "documentationUrl": "https://github.com/AtharGamesOrg/fusionwebgl-ai",
+   "changelogUrl": "https://github.com/AtharGamesOrg/fusionwebgl-ai/blob/main/CHANGELOG.md",
+   "licensesUrl": "https://github.com/AtharGamesOrg/fusionwebgl-ai/blob/main/LICENSE",
    "keywords": [
       "ai",
       "npc",
       "dialogue",
       "fusion",
-      "gamecreator",
-      "chatgpt",
-      "unity"
-   ],
+      "gamecreator"
+   ],          
    "author": {
-      "name": "FusionWebGL",
-      "email": "support@fusionwebgl.ai",
-      "url": "https://fusionwebgl.ai"
+      "name": "AtharGamesOrg",
+      "email": "",
+      "url": "https://github.com/AtharGamesOrg"
    },
    "dependencies": {
       "com.unity.inputsystem": "1.7.0",
@@ -28,15 +26,15 @@
       "com.photon.fusion": "1.1.0"
    },
    "samples": [
-      {
-         "displayName": "Basic Dialogue",
-         "description": "A simple scene demonstrating basic NPC dialogue functionality",
-         "path": "Samples/BasicDialogue"
-      },
-      {
-         "displayName": "Advanced NPC",
-         "description": "A more complex example showing advanced NPC behaviors and quest integration",
-         "path": "Samples/AdvancedNPC"
-      }
-   ]
+     {
+        "displayName": "Basic Dialogue",
+        "description": "A simple scene demonstrating basic NPC dialogue functionality",
+        "path": "Samples/BasicDialogue"
+     },
+     {      
+        "displayName": "Advanced NPC",
+        "description": "A more complex example showing advanced NPC behaviors and quest integration",
+        "path": "Samples/AdvancedNPC"
+     }
+   ] 
 }
